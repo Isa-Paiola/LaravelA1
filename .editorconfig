@@ -1,0 +1,20 @@
+## Requisitos
+
+* PHP 8.2 ou superior
+
+* Node.js 22 ou superior
+
+## Sequência para criar o projeto
+
+Criar o projeto com laravel
+
+...
+
+Composer create-project laravel/laravel . 
+...
+
+iniciar o projeto com Laravel
+...
+
+
+php artisan serve 
