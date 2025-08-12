@@ -2,8 +2,7 @@
 
 # 🌟 Laravel 12
 
-<img width="1920" height="1080" alt="Laravel" src="https://github.com/user-attachments/assets/2f8fbf99-2a0a-42ff-8a03-c425f2e8c9ac" />
-
+<img width="1920" height="1080" alt="Laravel" src="https://github.com/user-attachments/assets/ac8ed992-6619-49ce-ba98-c4a34bcf6d27" />
 
 ## 📌 Sobre o Projeto
 O **Laravel 12** é um **framework PHP** robusto, desenvolvido para facilitar a criação de aplicações modernas seguindo o padrão **MVC** (*Model-View-Controller*).
